@@ -6,7 +6,7 @@ I graduated from the ***University of Bologna*** with a Bachelor's degree in **C
 
 Currently, I am working at *Diennea*, where I implement and integrate AI solutions into their services.
 
-![DanieleMorotti's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanieleMorotti&count_private=true&show=prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&hide=contribs&rank_icon=percentile)
+![DanieleMorotti's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=DanieleMorotti&count_private=true&show=prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&hide=contribs&rank_icon=percentile)
 
 Feel free to contact me!
 
